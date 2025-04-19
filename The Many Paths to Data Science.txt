@@ -1,0 +1,45 @@
+[SOUND] [MUSIC] Data science didn't really
+exist when I was growing up. It's not something that I ever woke up and said, I want to be a data
+scientist when I grow up. No, it didn't exist. I didn't know I would be
+working in data science. When I grew up, there isn't
+that field called data science. And I think it's really new. Data science didn't exist until 2009,
+2011. Someone like DJ Patil or
+Andrew Gelman coined the term. Before that, there was statistics. And I didn't want to be any of those. I want to be in business. And then I found data science
+a heck of a lot more interesting. I studied statistics,
+that's how I started. I went through many different stages in
+my life where I wanted to be a singer and then a doctor. And then I realized that
+I was good at math. So I chose an area that was
+focused on quantitative analysis. And from then I do think that
+I wanted to work with data. Not necessarily data science
+as it's known today. The first time that I had
+contact with data science, when I was my first year as
+a mechanical engineering. And strategic consulting firms,
+they use data science to make decisions. So it was my first contact
+with data science. I had a complicated problem
+that I needed to solve, and the usual techniques that we had at
+that time couldn't help with that problem. I graduated with a math degree
+in the worst possible time, right after the economic crisis, and you
+actually had to be useful to get a job. So I went and got a degree in statistics. And then I worked enough jobs that
+were called data scientist that I suddenly became one. My undergraduate degree was in
+business, and I majored in politics, philosophy, and economics. And then I did a masters
+in business analytics at New York University at
+the Stern School of Business. When I left my undergrad,
+the first company I joined, it turned out that they were analyzing electronic point
+of sale data for retail manufacturers. And what we were doing was data science. But we only really started
+using that term much later. In fact, I'd say four or five years ago is
+when we started calling it analytics and data science. I had several options for
+my internship here in Canada. And one of the options was
+to work with data science. I used to work with project development. But I think that was a good choice. And then I start my
+internship with data science. I'm a civil engineer by training,
+so all engineers work with data. I would say the conventional use of data science in my life started
+with transportation research. I started building large models trying
+to forecast traffic on streets, trying to determine congestion and greenhouse
+gas emissions or tailpipe emissions. So I think that's where my start was. And I started building these models
+when I was a graduate student at the University of Toronto. Started working with very large data sets,
+looking at household samples of, say, 150,000 households
+from half a million trips. And that, too,
+I'm speaking from mid 90s when this was supposed to be a very large data set,
+but not in today's terms. But that's how I started. I continued working with it. And then I moved to McGill University
+where I was a professor of transportation engineering. And I built even bigger data models
+that involved data and analytics. And so I would say, yes, transportation
+research brought me to data science. [MUSIC]

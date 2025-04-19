@@ -1,0 +1,42 @@
+Welcome to defining data science,
+lesson summary. In this video, we'll review important
+points you learned from the videos and readings in this lesson, we'll also link together the ideas
+from the resources in this lesson. We will quickly recap
+what data science is, data scientists role in an organization,
+what makes a skilled data a scientist, and expert advice on how
+to acquire these skills? Let's begin, so
+what really is data science? Simply put,
+data science is the study of data, data science uses data to understand
+the world around us, some consider data science an art of uncovering the insights
+and trends hiding behind data. Data analysis isn't new,
+recent data access and enhanced computing power drives new
+insights and knowledge through analysis. We also have the computing power needed to
+analyze this data to reveal new knowledge, with the power of computers, we can dig through this information
+to reveal valuable insights. Just like a detective uncovering secrets,
+data scientists translate the data into stories to generate insights, these
+insights aid strategic decision-making for companies or institutions. Similar to biological or
+physical sciences, data science deals with structured and
+unstructured data. The process of gleaning insights from data
+includes clarifying the problem, data collection, analysis, pattern recognition,
+storytelling, and visualization. According to Professor Murtez Aheter from
+the Ted Rogers School of Management, curiosity, argumentation, and
+judgment are vital for data scientists. Curiosity helps you explore data and
+come up with meaningful questions. Good, sound, reasonable arguments help you explain your
+findings after learning from the data, compelling the listener to adjust their
+ideas based on the new information. Good judgment guides you to
+start in the right direction. Skilled data scientists go beyond just
+being statisticians or computer experts. Companies are looking for versatile individuals who know
+a lot about a particular subject, have some experience in programming and
+analyzing data, and can communicate well. Generally, data scientists are comfortable
+with math, they're curious, they're good at telling stories. Their backgrounds can come from
+various fields like economics, engineering, medicine, and more. Once you understand your strengths and
+interests, focus on mastering data analysis in that field and
+select suitable tools for your industry. As you become proficient, apply your
+expertise to solve real world issues using data, similar to solving
+mysteries by deciphering clues. So, what does the future look like for
+you as a skilled data scientist? Data scientist jobs will also change as
+technology changes and data roles develop, to ensure their employees are qualified,
+companies will require certification. Data scientists will always need to
+think logically, use algorithms, and follow a methodical approach. Most importantly, they must gather
+data correctly and carefully analyze the models being used, all aiming to
+achieve successful business results. [MUSIC]

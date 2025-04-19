@@ -1,0 +1,49 @@
+Welcome to your journey toward an enticing
+career path in the Data Science field. Data science has witnessed
+recent remarkable growth due to the abundance
+of electronic data, computing power, advancements in artificial intelligence,
+and its demonstrated business value. In the United States,
+the US Bureau of Labor Statistics projects a 35% growth rate in the field. Currently, the median annual salary
+is an estimated $103,000. So, begin your journey into this thriving
+and fascinating field with this course! Its increased adoption across industries has
+fueled demand for skilled data scientists who can use data to tell compelling stories
+to transform and inform businesses. In this introductory course, learn about these opportunities and
+investigate the needed career skills to become a data scientist. Additionally, this course will help
+managers and executives who want to learn about this field to help transform
+their organization to become more data-driven. This course is designed for beginners, so you don't need prior knowledge or
+a degree in data science or programming. It serves as an introduction to the field. Take this course if you are
+curious about data science and how and why data science
+is transforming our world. Learn about concepts such as “Big Data,” different branches of artificial intelligence, and how data science leverages these ideas
+to uncover and tell hidden stories. This course is the first in several other
+specializations and programs, including: IBM Data Science Professional Certificate Introduction to Data Science
+Key Technologies for Business IBM AI Foundations for Business. You will meet several data scientists who will share their insights
+and experiences in Data Science. You’ll have a foundational
+understanding of data science through instructional videos and
+videos with data science professionals, readings, practice assessments
+where you can practice your skills, glossaries for your reference,
+and a video that summarizes each lesson. At the end of the course, you will have a case study
+and a quiz based on it as a final assignment. You explore Data Science job listings
+in the final peer-reviewed project. Let’s take a more detailed view
+of the course content. The course is divided into three modules,
+plus an optional module. In the first lesson, you’ll explore what data science is, the data scientist’s role in an organization,
+and what makes a skilled data scientist. Then, you continue this module by
+learning about what data scientists do. You'll also learn essential skills
+for becoming a good data scientist and why significant data matters. You'll explore handling different file types, study data science topics and algorithms, and discuss the qualities
+that define a data scientist. In Module 2, Lesson 1, you’ll explore the
+interaction of Big Data and Cloud Computing in driving digital transformation. You will also learn foundational concepts, key tools, and data mining techniques essential for
+data scientists in this dynamic landscape. In the second module lesson, you’ll dive into the exciting concepts of
+artificial intelligence and data science. Throughout this module, you will
+explore artificial intelligence concepts like machine learning and deep learning,
+gaining valuable insights and skills. In the third module, you’ll embark on a journey
+to explore the vast and impactful realms where data science plays a pivotal role. This engaging module
+delves into various activities that shed light on the diverse applications
+of data science today. In addition to these three modules, you are also offered an optional module
+if you’d like to familiarize yourself with data literacy concepts for data science
+and where you will learn about the data ecosystem. Topics include sources of data that
+data professionals use in their day-to-day tasks and distinguish between databases,
+data warehouses, data marts, and data lakes. You gain a basic understanding of how data gets processed, such as the Extract, Transform, and Load (ETL)
+processes, and working with Data Pipelines. While participating in the course,
+if you encounter challenges or have questions, you can find support and answers and
+connect with other learners and support staff in the course’s discussion forums. And now, welcome to the course.
+We look forward to you completing this course, earning a valuable certificate, and continuing
+your path to a data science career.
