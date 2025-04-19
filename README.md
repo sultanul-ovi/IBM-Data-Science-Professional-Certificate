@@ -12,7 +12,7 @@ The **IBM Data Science Professional Certificate** is a 12-course series that equ
 | #  | Course Title                                                                 | Duration | Status         | Certificate |
 |----|------------------------------------------------------------------------------|----------|----------------|-------------|
 | 1  | [What is Data Science?](https://coursera.org/learn/what-is-datascience)     | 11 hrs   | ✅ Completed    | 🔗 [Link](#) |
-| 2  | [Tools for Data Science](https://coursera.org/learn/open-source-tools-for-data-science) | 18 hrs   | ✅ Completed    | 🔗 [Link](#) |
+| 2  | [Tools for Data Science](https://coursera.org/learn/open-source-tools-for-data-science) | 18 hrs   | ✅ Completed    | 🔗 [Certificate](#) |
 | 3  | [Data Science Methodology](https://coursera.org/learn/data-science-methodology) | 6 hrs    | ✅ Completed    | 🔗 [Link](#) |
 | 4  | [Python for Data Science, AI & Development](https://coursera.org/learn/python-for-applied-data-science-ai) | 25 hrs   | ✅ Completed    | 🔗 [Link](#) |
 | 5  | [Python Project for Data Science](https://coursera.org/learn/python-project-for-data-science) | 8 hrs    | ✅ Completed    | 🔗 [Link](#) |
